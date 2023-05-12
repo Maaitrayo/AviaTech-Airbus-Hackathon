@@ -53,6 +53,45 @@ JWT_SECRET=<your_jwt_secret>
 ![ER Diagram](Diagram/ER_diagram_page-0001.jpg)
 ER Diagram
 
+## Data Lake
+The data lake is a centralized repository that stores all the data from different sources in its raw format. It is a scalable and cost-effective solution that allows businesses to store, process, and analyze large volumes of structured, semi-structured, and unstructured data.
+
+Our data lake is designed to reduce redundancy in the system and ensure data authenticity. We have created a normalized database with the following tables:
+
+- `Item Table`\
+The Item table is the primary table that stores information about the washing machine models, including the SKU and Supplier ID.
+
+- `Manufacturing Table`\
+The Manufacturing table stores the Order ID and SKU for each washing machine that is being manufactured.
+
+- `BillOfMaterial Table`\
+The BillOfMaterial table stores the Component ID, SKU, and Supplier ID for each washing machine component.
+
+- `Process Table`\
+The Process table stores the Process ID, Order ID, and Resource ID for each manufacturing process.
+
+- `Subprocess Table`\
+The Subprocess table stores the Subprocess ID, Process ID, Resource ID, and Operator ID for each manufacturing subprocess.
+
+- `SubprocessItem Table`\
+The SubprocessItem table stores the Subprocess ID and Component ID for each manufacturing subprocess item.
+
+- `SalesOrder Table`\
+The SalesOrder table stores the Order ID and Sales Rep ID for each washing machine sales order.
+
+- `Fulfillment Table`\
+The Fulfillment table stores the Order ID and Fulfillment Status for each washing machine sales order.
+
+- `HistoryData Table`\
+The HistoryData table stores the Order ID, Order Status, and Status Date for each washing machine sales order.
+
+- `SupplyPlanning Table`\
+The SupplyPlanning table stores the SKU for each washing machine model.
+
+Our data lake is designed to be easily accessible through a dashboard that allows users to access the data required for their domain, including forecasted and real-time data. The dashboard also allows for data stamping (approval) of real-time data and provides a monitoring dashboard for the data officer to oversee the stamping process.
+
+The solution is built using the latest open source technologies, including React for the frontend, MongoDB for the backend, and hosted on a cloud platform for scalability and performance. The platform has authentication and authorization for users based on their department and level of access. Overall, our data lake solution meets the requirements stated in the problem statement and is fully functional for users with a focus on sustainability and reducing redundancy in the system.
+
 ### Contributors
 - Maaitrayo Das (dasmaaitrayo@mail.com)
 - Hrittik Garain (hrittikgarain@gmail.com)

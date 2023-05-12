@@ -27,7 +27,6 @@ The platform is built using the following technologies:
 ### Prerequisites
 - Node.js installed
 - MongoDB installed
-- Docker installed (optional)
 
 ### Installation
 1. Clone the repository
@@ -45,8 +44,10 @@ JWT_SECRET=<your_jwt_secret>
 - AWS
 
 ### Architecture
+Use Case Diagram\
 ![Use Case Diagram](Diagram/useCaseDiagram.png)
 
+Data Flow Diagram\
 ![Data Flow Diagram](Diagram/DataFlowDiagram.png)
 
 ### ER Diagram

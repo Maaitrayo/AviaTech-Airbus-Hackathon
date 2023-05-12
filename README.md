@@ -45,9 +45,12 @@ JWT_SECRET=<your_jwt_secret>
 - AWS
 
 ### Architecture
-Architecture Diagram
+![Use Case Diagram](Diagram/useCaseDiagram.png)
+
+![Data Flow Diagram](Diagram/DataFlowDiagram.png)
 
 ### ER Diagram
+![ER Diagram](Diagram/ER_diagram_page-0001.jpg)
 ER Diagram
 
 ### Contributors

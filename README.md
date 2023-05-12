@@ -1,4 +1,5 @@
 # AviaTech
+# Aibus Aerothon-5.0 Hacathon round
 # Washing Machine Manufacturing Data Management System
 This is a data management system designed to streamline the process of manufacturing washing machines. It provides a centralized platform for different departments to manage their data related to logistics, supply chain, planning, execution, and forecasting of orders. The platform is designed to reduce redundancy, improve data authenticity, and make data management more sustainable in the long term.
 

@@ -54,7 +54,7 @@ ER Diagram
 - Maaitrayo Das (dasmaaitrayo@mail.com)
 - Hrittik Garain (hrittikgarain@gmail.com)
 - Ayan Roy (royayan20191@gmail.com)
-- Kunal Roy (roykuntal13@gmail.com)
+- Kunal Roy (roykuntal13@gmail.com | roykuntal1213@gmail.com )
 - Sandeep Mandal (sandeepmandal0504@gmail.com)
 
 ### License

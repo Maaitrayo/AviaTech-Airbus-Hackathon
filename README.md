@@ -101,7 +101,7 @@ The solution is built using the latest open source technologies, including React
 - Sandeep Mandal (sandeepmandal0504@gmail.com)
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 
 

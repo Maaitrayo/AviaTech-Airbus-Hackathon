@@ -88,6 +88,10 @@ Our data lake is designed to be easily accessible through a dashboard that allow
 
 The solution is built using the latest open source technologies, including React for the frontend, MongoDB for the backend, and hosted on a cloud platform for scalability and performance. The platform has authentication and authorization for users based on their department and level of access. Overall, our data lake solution meets the requirements stated in the problem statement and is fully functional for users with a focus on sustainability and reducing redundancy in the system.
 
+![WEB 1](Diagram/1.jpeg)
+![WEB 2](Diagram/2.jpeg)
+![WEB 3](Diagram/3.jpeg)
+
 ### Contributors
 - Maaitrayo Das (dasmaaitrayo@mail.com)
 - Hrittik Garain (hrittikgarain@gmail.com)

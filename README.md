@@ -38,6 +38,10 @@ The platform is built using the following technologies:
 7. RUN npm start
 5. Run npm start
 
+## Default Credentials
+    email : hrittikgarain45@gmail.com
+    password : 123456
+    type : 1
 ### Architecture
 Use Case Diagram\
 ![Use Case Diagram](Diagram/useCaseDiagram.png)

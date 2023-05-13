@@ -29,19 +29,14 @@ The platform is built using the following technologies:
 - MongoDB installed
 
 ### Installation
-1. Clone the repository
-2. Navigate to the root directory
-3. Run npm install
-4. Create a .env file with the following environment variables:
-```
-PORT=3000
-MONGO_URI=<your_mongodb_uri>
-JWT_SECRET=<your_jwt_secret>
-```
+1. download the zip file and unzip it and ENV variables
+2. GO to the directory --Backend/WashingMachineSupplychan-RestAPI 
+3. RUN npm install 
+4. RUN node index.js
+5. go to the directory --Frontend/AviaTechClient 
+6. npm install	
+7. RUN npm start
 5. Run npm start
-
-### Deployment
-- AWS
 
 ### Architecture
 Use Case Diagram\

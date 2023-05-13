@@ -101,7 +101,7 @@ The solution is built using the latest open source technologies, including React
 - Sandeep Mandal (sandeepmandal0504@gmail.com)
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Maaitrayo/AviaTech-Airbus-Hackathon/blob/main/LICENSE) file for details.
 
 
 
